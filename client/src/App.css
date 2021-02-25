@@ -9,7 +9,7 @@
 .editor-container {
   flex-grow: 1;
   flex-basis: 0;
-
+  width: 30vw;
   display: flex;
   flex-direction: column;
   padding: 0.5rem;
